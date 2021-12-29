@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
+Hi, I'm Julian Dittmann.
+
+I'm a Microsoft Dynamics 365 Business Central developer.
+
+I currently maintain this blog and my projects on Github. I write about usefull tools that you might not have discorvered yet around Microsoft Dynamics 365 Business Central. I tend to open source everything that I can.
+
+# Blog
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
