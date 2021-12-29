@@ -4,7 +4,7 @@ title: Extensions
 permalink: /extensions/
 ---
 
-Here you can find extensions for Microsoft Dynamcis 365 Business Central. These projects are open source and free to use.
+Here you can find extensions for Microsoft Dynamics 365 Business Central. These projects are open source and free to use.
 
 # [BingMaps SDK](https://juliandittmann.github.io/AL.BingMapsSDK)
 
