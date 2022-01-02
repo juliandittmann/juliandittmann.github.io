@@ -7,7 +7,7 @@ categories: extensions
 
 # Introduction
 
-Back in april 2021 I created my own template project for Microsoft Dynamcis 365 Business Central with a CICD process based on [Freddys blogpost](https://freddysblog.com/2020/11/14/using-github-for-devops/). Since then I build my first Github Action and used the template for all my projects.
+Back in april 2021 I created my own template project for Microsoft Dynamcis 365 Business Central with a CICD process based on [Freddys blogpost](https://freddysblog.com/2020/11/14/using-github-for-devops/). Since then I have built my first Github Action and used the template for all my projects.
 
 # AL.Template
 
